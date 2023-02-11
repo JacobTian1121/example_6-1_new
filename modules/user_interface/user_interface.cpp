@@ -136,7 +136,7 @@ static void userInterfaceDisplayInit()
     displayCharPositionWrite ( 0,0 );
     displayStringWrite( "Tmp:" );
 
-    displayCharPositionWrite ( 9,1 );
+    displayCharPositionWrite ( 9,0 );
     displayStringWrite( "Gas:" );
     
     displayCharPositionWrite ( 0,1 );
